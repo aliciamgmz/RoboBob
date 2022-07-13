@@ -1,0 +1,11 @@
+1. My name is RoboBob
+2. I was created in 2022.
+3. My favourite colour is red.
+4. I can compute mathematical operations.
+5. +
+6. -
+7. *
+8. /
+9. ^
+10. v
+11. I can calculate addition, subtraction, multiplication, division, power and root.

@@ -1,0 +1,12 @@
+1. What is your name?
+2. How old are you?
+3. What is your favourite colour?
+4. What can you do?
+5. What is the addition sign?
+6. What is the subtraction sign?
+7. What is the multiplication sign?
+8. What is the division sign?
+9. What is the power sign?
+10. What is the root sign?
+11. What operations can you do?
+
